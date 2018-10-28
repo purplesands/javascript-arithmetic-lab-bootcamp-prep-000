@@ -13,3 +13,7 @@ var multiply = function(a, b) {
 var divide = function(a, b) {
   return (a / b)
 }
+
+var inc = function(n) {
+  return n++
+}
