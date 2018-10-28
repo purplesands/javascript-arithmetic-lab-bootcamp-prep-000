@@ -25,3 +25,8 @@ var dec = function(n) {
 var makeInt = function(n) {
   return parseInt(n, 10)
 }
+
+var preserveDecimal = function(n) {
+  return parseFloat(n, 10)
+}
+
