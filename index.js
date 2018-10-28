@@ -21,3 +21,7 @@ var inc = function(n) {
 var dec = function(n) {
   return --n
 }
+
+var makeInt = function(n) {
+  return parseInt(n)
+}
