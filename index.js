@@ -17,3 +17,7 @@ var divide = function(a, b) {
 var inc = function(n) {
   return ++n
 }
+
+var dec = function(n) {
+  return --n
+}
